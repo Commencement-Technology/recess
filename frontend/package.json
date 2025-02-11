@@ -56,7 +56,7 @@
         "@types/html-to-text": "^9.0.4",
         "concurrently": "^8.2.2",
         "copyfiles": "^2.4.1",
-        "esbuild": "^0.20.1",
+        "esbuild": "^0.25.0",
         "kea-typegen": "^3.3.4"
     }
 }
